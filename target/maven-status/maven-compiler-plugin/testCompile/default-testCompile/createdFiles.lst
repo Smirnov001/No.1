@@ -1,0 +1,6 @@
+tests\SearchTest.class
+tests\BaseTest.class
+tests\LoginPageTest.class
+tests\DownloadTest.class
+tests\ChangeTheLanguageTest.class
+tests\Listener.class
